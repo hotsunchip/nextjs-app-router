@@ -1,10 +1,4 @@
 {
   "home": "Home",
-  "about": "About",
-  "feature": "Features",
-  "faq": "FAQs",
-  "document": "Guide",
-  "download": "Download",
-  "contact": "Contact",
-  "login": "Log In"
+  "about": "About"
 }
